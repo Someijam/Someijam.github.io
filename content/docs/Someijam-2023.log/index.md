@@ -1,6 +1,6 @@
 ---
 title: "Someijam的旅行日志"
-date: 2024-09-07T16:21:39+08:00
+date: 2023-12-31T16:21:39+08:00
 draft: false
 description: ""
 ---

@@ -21,8 +21,8 @@ disableImageOptimization = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "/img/background.svg"
-defaultFeaturedImage = "/img/featured.svg"
+defaultBackgroundImage = "/img/fireflies.svg"
+defaultFeaturedImage = "/img/blowfish_banner.png"
 
 highlightCurrentMenuArea = true
 smartTOC = true

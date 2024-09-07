@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Someijam的博客</title>
+    <title>Someijam</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Someijam的博客</description>
+    <description>Recent content on Someijam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2024  Someijam [萌ICP备20230407号](https://icp.gov.moe/?keyword=20230407)</copyright>
+    <copyright>© 2024  Someijam [萌ICP备20230407号](https://icp.gov.moe/?keyword=20230407) </copyright>
     <lastBuildDate>Sat, 07 Sep 2024 16:46:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info</title>
@@ -19,19 +19,9 @@
     </item>
     
     <item>
-      <title>On WWDC 22</title>
-      <link>http://localhost:1313/docs/on&#43;wwdc&#43;22/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/on&#43;wwdc&#43;22/</guid>
-      <description>On WWDC 22 # 北京时间2022年6月7日凌晨1点，Apple线上举</description>
-      
-    </item>
-    
-    <item>
       <title>Someijam的旅行日志</title>
       <link>http://localhost:1313/docs/someijam-2023.log/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
+      <pubDate>Sun, 31 Dec 2023 16:21:39 +0800</pubDate>
       
       <guid>http://localhost:1313/docs/someijam-2023.log/</guid>
       <description>2023年Someijam的旅行日志 Traveling logs for Someijam in 2023 サメチャムの</description>
@@ -39,89 +29,19 @@
     </item>
     
     <item>
-      <title>This Is a Test Page</title>
-      <link>http://localhost:1313/docs/this-is-a-test-page/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/this-is-a-test-page/</guid>
-      <description>背景 # 我们在上一篇文章“RSA加密算法中”，分别以上帝视角和</description>
-      
-    </item>
-    
-    <item>
-      <title>今日……</title>
-      <link>http://localhost:1313/docs/birth23today/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/birth23today/</guid>
-      <description>生日对我本身没有什么感觉，“它与你我经历过的无数个日子一样普</description>
-      
-    </item>
-    
-    <item>
-      <title>升空的星星</title>
-      <link>http://localhost:1313/docs/brightingthestatswatch/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/brightingthestatswatch/</guid>
-      <description>观《人生大事》 # 人生的大事是什么呢？有人说是高考，“一考定终</description>
-      
-    </item>
-    
-    <item>
-      <title>薙除杂妄</title>
-      <link>http://localhost:1313/docs/outmyheart/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/outmyheart/</guid>
-      <description>此文为摊牌文。可能会改变大家在某些方面对我的看法，这篇文章的</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/outmyheart/featured.jpg" />
-    </item>
-    
-    <item>
-      <title>同在晴雨下</title>
-      <link>http://localhost:1313/docs/tenkinokowatch/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/tenkinokowatch/</guid>
-      <description>所以，我逐渐发现，新海诚这个家伙不简单。他的作品总是能用Ha</description>
-      
-    </item>
-    
-    <item>
       <title>五次元的似曾相识</title>
       <link>http://localhost:1313/docs/kiminonawawatch/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
+      <pubDate>Tue, 07 Nov 2023 16:21:39 +0800</pubDate>
       
       <guid>http://localhost:1313/docs/kiminonawawatch/</guid>
       <description>5次元にからかわれて，それでも君をみるよ。 就算被五次元戏弄，</description>
-      
-    </item>
-    
-    <item>
-      <title>闲谈</title>
-      <link>http://localhost:1313/docs/somethingnoisy/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/somethingnoisy/</guid>
-      <description>不知道已经有多久了，还是本该这样。每年的这个时候，我都或多或</description>
-      
-    </item>
-    
-    <item>
-      <title>意识、时空与救赎</title>
-      <link>http://localhost:1313/docs/suzumewatch/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/suzumewatch/</guid>
-      <description>前几天室友发出邀请，想一起去看一个“二次元”新作。我当然要去</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/kiminonawawatch/featured.png" />
     </item>
     
     <item>
       <title>月下二人</title>
       <link>http://localhost:1313/docs/gekkanofutari/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
+      <pubDate>Thu, 07 Sep 2023 16:21:39 +0800</pubDate>
       
       <guid>http://localhost:1313/docs/gekkanofutari/</guid>
       <description>（注音：げっかふたり） 这是一个浪漫的故事，所谓“从校服到婚纱</description>
@@ -129,19 +49,9 @@
     </item>
     
     <item>
-      <title>在时空中看到的</title>
-      <link>http://localhost:1313/docs/somethingbeseeninthetime/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
-      
-      <guid>http://localhost:1313/docs/somethingbeseeninthetime/</guid>
-      <description>“风带来故事的种子，时间使之发芽。” 这句话，还有我们时时刻刻</description>
-      
-    </item>
-    
-    <item>
       <title>长大之前</title>
       <link>http://localhost:1313/docs/beforegrownup/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
+      <pubDate>Fri, 23 Jun 2023 16:21:39 +0800</pubDate>
       
       <guid>http://localhost:1313/docs/beforegrownup/</guid>
       <description>封面图：我自己画的 “你该长大了，少年。” 没想到我来到这世间已</description>
@@ -149,13 +59,103 @@
     </item>
     
     <item>
+      <title>同在晴雨下</title>
+      <link>http://localhost:1313/docs/tenkinokowatch/</link>
+      <pubDate>Tue, 30 May 2023 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/tenkinokowatch/</guid>
+      <description>所以，我逐渐发现，新海诚这个家伙不简单。他的作品总是能用Ha</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/tenkinokowatch/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>意识、时空与救赎</title>
+      <link>http://localhost:1313/docs/suzumewatch/</link>
+      <pubDate>Thu, 25 May 2023 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/suzumewatch/</guid>
+      <description>前几天室友发出邀请，想一起去看一个“二次元”新作。我当然要去</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/suzumewatch/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>升空的星星</title>
+      <link>http://localhost:1313/docs/brightingthestatswatch/</link>
+      <pubDate>Sun, 31 Jul 2022 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/brightingthestatswatch/</guid>
+      <description>观《人生大事》 # 人生的大事是什么呢？有人说是高考，“一考定终</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/brightingthestatswatch/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>今日……</title>
+      <link>http://localhost:1313/docs/birth22today/</link>
+      <pubDate>Thu, 23 Jun 2022 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/birth22today/</guid>
+      <description>生日对我本身没有什么感觉，“它与你我经历过的无数个日子一样普</description>
+      
+    </item>
+    
+    <item>
+      <title>薙除杂妄</title>
+      <link>http://localhost:1313/docs/outmyheart/</link>
+      <pubDate>Thu, 16 Jun 2022 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/outmyheart/</guid>
+      <description>此文为摊牌文。可能会改变大家在某些方面对我的看法，这篇文章的</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/outmyheart/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>On WWDC 22</title>
+      <link>http://localhost:1313/docs/on&#43;wwdc&#43;22/</link>
+      <pubDate>Fri, 10 Jun 2022 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/on&#43;wwdc&#43;22/</guid>
+      <description>On WWDC 22 # 北京时间2022年6月7日凌晨1点，Apple线上举</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/on&#43;wwdc&#43;22/featured.jpg" />
+    </item>
+    
+    <item>
       <title>追忆：高考成人之际</title>
       <link>http://localhost:1313/docs/rememberbacknmet/</link>
-      <pubDate>Sat, 07 Sep 2024 16:21:39 +0800</pubDate>
+      <pubDate>Fri, 10 Jun 2022 16:21:39 +0800</pubDate>
       
       <guid>http://localhost:1313/docs/rememberbacknmet/</guid>
       <description>一年的时光就这么让它溜走了。时之疾，不可追也。此刻，宜追忆往</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/rememberbacknmet/featured.jpeg" />
+    </item>
+    
+    <item>
+      <title>闲谈</title>
+      <link>http://localhost:1313/docs/somethingnoisy/</link>
+      <pubDate>Fri, 03 Jun 2022 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/somethingnoisy/</guid>
+      <description>不知道已经有多久了，还是本该这样。每年的这个时候，我都或多或</description>
+      
+    </item>
+    
+    <item>
+      <title>在时空中看到的</title>
+      <link>http://localhost:1313/docs/somethingbeseeninthetime/</link>
+      <pubDate>Sat, 30 Apr 2022 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/somethingbeseeninthetime/</guid>
+      <description>“风带来故事的种子，时间使之发芽。” 这句话，还有我们时时刻刻</description>
+      
+    </item>
+    
+    <item>
+      <title>This Is a Test Page</title>
+      <link>http://localhost:1313/docs/this-is-a-test-page/</link>
+      <pubDate>Tue, 01 Jan 2019 16:21:39 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/this-is-a-test-page/</guid>
+      <description>背景 # 我们在上一篇文章“RSA加密算法中”，分别以上帝视角和</description>
+      
     </item>
     
   </channel>
